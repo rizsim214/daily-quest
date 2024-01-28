@@ -1,0 +1,16 @@
+:root {
+    --clean-green: #5EF38C;
+    --clean-blue: #006DAA;
+    --clean-white: #efffff;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.section {
+    background-color: var(--clean-white);
+    height: 100vh;
+}
