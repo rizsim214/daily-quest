@@ -10,7 +10,10 @@
     box-sizing: border-box;
 }
 
+.custom-bg-green {
+    background-color: var(--clean-green); 
+}
+
 .section {
-    background-color: var(--clean-white);
     height: 100vh;
 }
